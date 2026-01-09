@@ -1,0 +1,24 @@
+# Suchmos – Armstrong
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Give me tonight Give me tonight
+あふれるほどの愛をBaby salty baby
+Right click Left click
+だらしない姿でBaby, sick all tiny
+Window is wondering and magical to me
+But bad bunner is like a pitfall to me
+Love tonight Hold me tight
+果てるまで Stand up
+この腕で Hurry up
+Give you tonight Give you tonight
+こぼれるほどの愛をBaby milky way
+Right click Left click
+だらしない姿でBaby, sick all tiny
+Window is wondering and magical to me
+But bad bunner is like a pitfall to me
+Love tonight Hold me tight
+果てるまで Stand up
+この腕で Hurry up
+```
