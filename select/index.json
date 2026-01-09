@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Armstrong",
+  "base_artist": "Suchmos",
+  "createdAt": "2026-01-09T13:43:14.141011Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Neil Armstrong",
+      "artist": "Allo Darlin'",
+      "has_synced": true,
+      "path": "select/01_Neil_Armstrong_Allo_Darlin'.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Neil Armstrong (Bonus Track)",
+      "artist": "glibs",
+      "has_synced": false,
+      "path": "select/02_Neil_Armstrong_(Bonus_Track)_glibs.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Looking Back from the Future feat. Baby Rose, C.S. Armstrong",
+      "artist": "The Koreatown Oddity",
+      "has_synced": false,
+      "path": "select/03_Looking_Back_from_the_Future_feat._Baby_Rose,_C.S._Armstrong_The_Koreatown_Oddity.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Louis Armstrong; C'est si bon",
+      "artist": "Louis Armstrong",
+      "has_synced": true,
+      "path": "select/04_Louis_Armstrong;_C'est_si_bon_Louis_Armstrong.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "6 Feet Underground (feat. Tim Armstrong)",
+      "artist": "Yelawolf feat. Travis Barker",
+      "has_synced": false,
+      "path": "select/05_6_Feet_Underground_(feat._Tim_Armstrong)_Yelawolf_feat._Travis_Barker.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "6 Feet Underground (feat. Tim Armstrong)",
+      "artist": "Yelawolf",
+      "has_synced": false,
+      "path": "select/06_6_Feet_Underground_(feat._Tim_Armstrong)_Yelawolf.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hello, Dolly (With Louis Armstrong)",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/07_Hello,_Dolly_(With_Louis_Armstrong)_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Armstrong",
+      "artist": "LoBo",
+      "has_synced": true,
+      "path": "select/08_Armstrong_LoBo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dardanella (with Louis Armstrong)",
+      "artist": "Bing Crosby",
+      "has_synced": false,
+      "path": "select/09_Dardanella_(with_Louis_Armstrong)_Bing_Crosby.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Run NY (feat. Billie Joe Armstrong)",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/10_I_Run_NY_(feat._Billie_Joe_Armstrong)_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Babe Ruth vs Lance Armstrong",
+      "artist": "Epic Rap Battles of History",
+      "has_synced": true,
+      "path": "select/11_Babe_Ruth_vs_Lance_Armstrong_Epic_Rap_Battles_of_History.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Louis Armstrong - Zatyou Santa Claus",
+      "artist": "Louis Armstrong",
+      "has_synced": false,
+      "path": "select/12_Louis_Armstrong_-_Zatyou_Santa_Claus_Louis_Armstrong.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "As We Live (feat. Tim Armstrong & Rhoda Dakar)",
+      "artist": "The Interrupters feat. Tim Armstrong & Rhoda Dakar",
+      "has_synced": true,
+      "path": "select/13_As_We_Live_(feat._Tim_Armstrong_&_Rhoda_Dakar)_The_Interrupters_feat._Tim_Armstrong_&_Rhoda_Dakar.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "As We Live (feat. Tim Armstrong & Rhoda Dakar)",
+      "artist": "The Interrupters",
+      "has_synced": true,
+      "path": "select/14_As_We_Live_(feat._Tim_Armstrong_&_Rhoda_Dakar)_The_Interrupters.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What's Your Number? (feat. Tim Armstrong)",
+      "artist": "Cypress Hill feat. Tim Armstrong",
+      "has_synced": true,
+      "path": "select/15_What's_Your_Number__(feat._Tim_Armstrong)_Cypress_Hill_feat._Tim_Armstrong.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "What's Your Number? (Feat. Tim Armstrong)",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/16_What's_Your_Number__(Feat._Tim_Armstrong)_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Big Swing (radio edit) (feat. Lil Hardin Armstrong)",
+      "artist": "Fab Samperi",
+      "has_synced": false,
+      "path": "select/17_The_Big_Swing_(radio_edit)_(feat._Lil_Hardin_Armstrong)_Fab_Samperi.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Welcome To America (feat. C.S. Armstrong & Angela Hunte)",
+      "artist": "Black Thought feat. C.S. Armstrong & Angela Hunte",
+      "has_synced": true,
+      "path": "select/18_Welcome_To_America_(feat._C.S._Armstrong_&_Angela_Hunte)_Black_Thought_feat._C.S._Armstrong_&_Angela_Hunte.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ARMSTRONG",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/pl_01_ARMSTRONG_Suchmos.txt"
+    }
+  ]
+}
